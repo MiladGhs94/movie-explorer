@@ -1,0 +1,13 @@
+requests
+
+Pillow
+
+pandas
+
+matplotlib
+
+tkinter
+
+io
+
+PIL
